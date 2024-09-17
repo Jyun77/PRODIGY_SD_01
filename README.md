@@ -2,11 +2,11 @@
 
 Here we have a program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The program should prompt the user to input a temperature value and the original unit of measurement. It should then convert the temperature to the other two units and display the converted values to the user. For example, if the user enters a temperature of 25 degrees Celsius, the program should convert it to Fahrenheit and Kelvin, and present the converted values as outputs.
 
-# Steps to Build a Temperature Conversion Program:
+## Steps to Build a Temperature Conversion Program:
 
 Understand Temperature Scales: Temperature can be measured in Celsius (°C), Fahrenheit (°F), and Kelvin (K). Celsius is commonly used in scientific contexts, Fahrenheit in some countries like the US, and Kelvin in scientific and engineering fields.
 
-Conversion Formulas: Celsius to Fahrenheit: F=95×C+32F=59​×C+32
+####Conversion Formulas: Celsius to Fahrenheit: F=95×C+32F=59​×C+32
 
 Celsius to Kelvin: K=C+273.15K=C+273.15
 Fahrenheit to Celsius: C=59×(F−32)C=95​×(F−32)
@@ -23,7 +23,7 @@ Example Scenario
 
 User Prompt: "Please enter the temperature value and its unit (C, F, or K)." Input: User enters "25 C" (25 degrees Celsius). Output: Program calculates and displays: "25 degrees Celsius is equal to:" "77 degrees Fahrenheit" "298.15 Kelvin"
 
-Benefits
+Benefits;
 
 Educational: Helps understand temperature scales and conversion formulas.
 
