@@ -9,10 +9,15 @@ Understand Temperature Scales: Temperature can be measured in Celsius (°C), Fah
 #### Conversion Formulas: Celsius to Fahrenheit: F=95×C+32F=59​×C+32 👈👈👈
 
 ✔ Celsius to Kelvin: K=C+273.15K=C+273.15
+
 ✔ Fahrenheit to Celsius: C=59×(F−32)C=95​×(F−32)
+
 ✔ Fahrenheit to Kelvin: K=59×(F−32)+273.15K=95​×(F−32)+273.15
+
 ✔ Kelvin to Celsius: C=K−273.15C=K−273.15
+
 ✔ Kelvin to Fahrenheit: F=95×(K−273.15)+32F=59​×(K−273.15)+32
+
 Building the Program: Input: Prompt the user to enter a temperature value and specify the original unit (C, F, or K). Conversion: Depending on the original unit entered, convert the temperature to the other two units using the appropriate formula. Output: Display the converted temperatures in a user-friendly format.
 
 #### Handling Edge Cases: Ensure the program handles invalid inputs gracefully (e.g., non-numeric temperature, incorrect unit).
