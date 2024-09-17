@@ -6,7 +6,7 @@ Here we have a program that converts temperatures between Celsius, Fahrenheit, a
 
 Understand Temperature Scales: Temperature can be measured in Celsius (°C), Fahrenheit (°F), and Kelvin (K). Celsius is commonly used in scientific contexts, Fahrenheit in some countries like the US, and Kelvin in scientific and engineering fields.
 
-####Conversion Formulas: Celsius to Fahrenheit: F=95×C+32F=59​×C+32
+#### Conversion Formulas: Celsius to Fahrenheit: F=95×C+32F=59​×C+32
 
 Celsius to Kelvin: K=C+273.15K=C+273.15
 Fahrenheit to Celsius: C=59×(F−32)C=95​×(F−32)
