@@ -9,6 +9,7 @@ Understand Temperature Scales: Temperature can be measured in Celsius (°C), Fah
 #### Conversion Formulas: Celsius to Fahrenheit: F=95×C+32F=59​×C+32 👈👈👈
 
 ✔ Celsius to Kelvin: K=C+273.15K=C+273.15
+
 ✔ Fahrenheit to Celsius: C=59×(F−32)C=95​×(F−32)
 ✔ Fahrenheit to Kelvin: K=59×(F−32)+273.15K=95​×(F−32)+273.15
 ✔ Kelvin to Celsius: C=K−273.15C=K−273.15
